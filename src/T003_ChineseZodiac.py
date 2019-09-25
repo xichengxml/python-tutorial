@@ -3,11 +3,11 @@
 # 列表：[0, "abcd"]
 # 元组: ("a", "b")
 
-chineseZodiac = "猴鸡狗猪鼠牛虎兔龙蛇马羊"
+chinese_zodiac = "猴鸡狗猪鼠牛虎兔龙蛇马羊"
 
-print(chineseZodiac[0])
-print(chineseZodiac[0:4])
-print(chineseZodiac[-1])
+print(chinese_zodiac[0])
+print(chinese_zodiac[0:4])
+print(chinese_zodiac[-1])
 
 year = 1994
-print(chineseZodiac[year % 12])
+print(chinese_zodiac[year % 12])
