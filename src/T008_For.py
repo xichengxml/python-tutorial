@@ -15,5 +15,5 @@ for i in zodiac_name:
     map_a[i] = 0
 print(map_a)
 
-map_b = {i:0 for i in zodiac_name}
+map_b = {i: 0 for i in zodiac_name}
 print(map_b)
