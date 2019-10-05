@@ -65,3 +65,7 @@ print(reduce(lambda x, y: x + y, list_a, 1))
 for i in zip(list_a, list_b):
     print(i)
 
+# 使用zip调换字典的key和value
+demo_dict = {'key01': 'value01', 'key02': 'value02'}
+result = list(zip(demo_dict.values(), demo_dict.keys()))
+print(result)
