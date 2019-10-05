@@ -1,6 +1,6 @@
 # ---------------------------
 # @description 闭包的使用
-# @author xichegnxml
+# @author xichengxml
 # @date 2019/10/5 下午 02:16
 # ---------------------------
 

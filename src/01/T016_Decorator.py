@@ -2,7 +2,7 @@ import time
 
 # ---------------------------
 # @description 装饰器，类似于java中的aop
-# @author xichegnxml
+# @author xichengxml
 # @date 2019/10/5 下午 02:24
 # ---------------------------
 
