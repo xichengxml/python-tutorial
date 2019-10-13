@@ -1,0 +1,8 @@
+# ---------------------------
+# @description TensorFlow入门
+# @author xichengxml
+# @date 2019/10/9 下午 10:24
+# ---------------------------
+
+# 1. pip3 install tensorflow -i https://pypi.douban.com/simple
+# 2. git clone https://github.com/tensorflow/models
